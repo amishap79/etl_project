@@ -30,6 +30,8 @@ Our Objective for is to use the ETL process with the data chosen. We will be ans
 # Questions:
 
 •	What are the total genres between Hulu and Netflix. 
+
+
 Netflix
 
 ![genre_netflix](https://github.com/amishap79/etl_project/blob/master/Resources/netflix_chart.PNG)
