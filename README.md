@@ -36,10 +36,32 @@ Netflix
 
 Hulu
 
-![genre_hulu] (https://github.com/amishap79/etl_project/blob/master/Resources/hulu_chart.PNG)
+![genre_hulu](https://github.com/amishap79/etl_project/blob/master/Resources/hulu_chart.PNG)
 
 
-•	Compare how many TV Shows are in both services 
+ •	Comparing TV Ratings between Hulu and Netflix 
 
-•	Comparing TV Ratings between Hulu and Netflix 
+Netflix
+
+
+![rating_netflix](https://github.com/amishap79/etl_project/blob/master/Resources/q2netflix_chart.PNG)
+
+Hulu
+
+![rating_hulu](https://github.com/amishap79/etl_project/blob/master/Resources/q2_hulu_chart.PNG)
+
+
+•	Compare how many TV Shows are in both services
+
+Netflix
+
+![show_hulu](https://github.com/amishap79/etl_project/blob/master/Resources/q3_netflix.PNG)
+
+
+Hulu
+
+![show_hulu](https://github.com/amishap79/etl_project/blob/master/Resources/q3_hulu.PNG)
+
+
+
 
