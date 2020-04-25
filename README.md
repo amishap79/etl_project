@@ -15,9 +15,12 @@ Stephanie Robalino.
 Comparing Netflix and Hulu Streaming  Services
 
 # Datasets:
-Our Datasets will include CSV files from Kaggle and DataWorld. 
+
+Our Datasets will include CSV files from Kaggle and DataWorld.
+
 Kaggle:
 https://www.kaggle.com/shivamb/netflix-shows/version/3
+
 DataWorld:
 https://data.world/chasewillden/top-1-000-most-popular-hulu-shows/workspace/file?filename=HuluRaw.csv
 
