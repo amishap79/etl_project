@@ -4,8 +4,11 @@
 # Team Members: 
 
 Amisha Patel
+
 Cesar Solomon
+
 David Rodriguez
+
 Stephanie Robalino.
 
 # Project Proposal: 
