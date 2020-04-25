@@ -1,7 +1,8 @@
 
 # 2+2=5 Making the impossible happen 
 
-#Team Members: 
+# Team Members: 
+
 Amisha Patel
 Cesar Solomon
 David Rodriguez
